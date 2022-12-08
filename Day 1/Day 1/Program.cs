@@ -12,8 +12,9 @@ namespace Program
             //Day2Tasks.RockPaperScissorsPt2();
             //Day3Tasks.Rucksack();
             //Day3Tasks.RucksackTask2();
-            Day4Tasks.CampCleanupTask1();
-            Day4Tasks.CampCleanupTask2();
+            //Day4Tasks.CampCleanupTask1();
+            //Day4Tasks.CampCleanupTask2();
+            Day5Tasks.SupplyStacks();
         }
     }
 }
