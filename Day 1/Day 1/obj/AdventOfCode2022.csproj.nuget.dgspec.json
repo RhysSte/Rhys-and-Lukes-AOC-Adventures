@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\advent of code 2022\\Day 1\\Day 1\\AdventOfCode2022.csproj": {}
+    "C:\\AdventOfCode2022\\Day 1\\Day 1\\AdventOfCode2022.csproj": {}
   },
   "projects": {
-    "C:\\advent of code 2022\\Day 1\\Day 1\\AdventOfCode2022.csproj": {
+    "C:\\AdventOfCode2022\\Day 1\\Day 1\\AdventOfCode2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\advent of code 2022\\Day 1\\Day 1\\AdventOfCode2022.csproj",
+        "projectUniqueName": "C:\\AdventOfCode2022\\Day 1\\Day 1\\AdventOfCode2022.csproj",
         "projectName": "AdventOfCode2022",
-        "projectPath": "C:\\advent of code 2022\\Day 1\\Day 1\\AdventOfCode2022.csproj",
-        "packagesPath": "C:\\Users\\rhyss\\.nuget\\packages\\",
-        "outputPath": "C:\\advent of code 2022\\Day 1\\Day 1\\obj\\",
+        "projectPath": "C:\\AdventOfCode2022\\Day 1\\Day 1\\AdventOfCode2022.csproj",
+        "packagesPath": "C:\\Users\\LMonaghan.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\AdventOfCode2022\\Day 1\\Day 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rhyss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LMonaghan.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,9 +25,10 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Norway\\CodeRepos\\ucas.netcore.legacyintegration\\NugetPackage": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://ucasent.jfrog.io/artifactory/api/nuget/v3/ucas-nuget-da-artifacts-virtual": {}
+          "https://ucasent.jfrog.io/ucasent/api/nuget/ucas-nuget-da-artifacts-virtual": {}
         },
         "frameworks": {
           "net6.0": {
