@@ -203,39 +203,50 @@ namespace AdventOfCode2022
                 // The most exciting bit that you're ever going to see
                 if (lineMovingToString == "line1")
                 {
+                    // Reverse the list to simulate moving one stack at a time
+                    stacksInMotion.Reverse();
+
                     // Add the range before the locals get sick
                     line1.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line2")
                 {
+                    stacksInMotion.Reverse();
                     line2.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line3")
                 {
+                    stacksInMotion.Reverse();
                     line3.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line4")
                 {
+                    stacksInMotion.Reverse();
                     line4.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line5")
                 {
+                    stacksInMotion.Reverse();
                     line5.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line6")
                 {
+                    stacksInMotion.Reverse();
                     line6.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line7")
                 {
+                    stacksInMotion.Reverse();
                     line7.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line8")
                 {
+                    stacksInMotion.Reverse();
                     line8.AddRange(stacksInMotion);
                 }
                 if (lineMovingToString == "line9")
                 {
+                    stacksInMotion.Reverse();
                     line9.AddRange(stacksInMotion);
                 }
 
